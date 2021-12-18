@@ -18,8 +18,8 @@ property Name is called. -->
     <PerfConfigs>
 
                 <!--System Properties -->
-                <Prop Name="ro.vendor.qti.sys.fw.bservice_age" Value="30000" />
-                <Prop Name="ro.vendor.qti.sys.fw.bservice_limit" Value="15" />
+                <Prop Name="ro.vendor.qti.sys.fw.bservice_age" Value="10000" />
+                <Prop Name="ro.vendor.qti.sys.fw.bservice_limit" Value="64" />
                 <Prop Name="ro.vendor.qti.sys.fw.bservice_enable" Value="true" />
                 <Prop Name="ro.vendor.qti.sys.fw.use_trim_settings" Value="true" />
                 <Prop Name="ro.vendor.qti.sys.fw.empty_app_percent" Value="50" />
