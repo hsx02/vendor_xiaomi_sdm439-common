@@ -834,7 +834,6 @@ PRODUCT_PACKAGES += \
     libts_detected_face_hal \
     libts_face_beautify_hal \
     vendor.qti.hardware.fm@1.0 \
-    SarControllerI \
     CneApp \
     IWlanService \
     TimeService \
